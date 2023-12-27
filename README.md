@@ -1,5 +1,6 @@
 # MaLeNAD
- An ML-powered news article analysis and fake news detection app, developed in Python, using Streamlit. Analyse news articles and discern between fact and fiction, with this tool powered by machine learning!
+ An ML-powered news article analysis and fake news detection app, developed in Python, using Streamlit. Analyse news articles and discern between fact and fiction, with this tool powered by machine learning! You can access this application on the web here: https://malenad.streamlit.app/
+ 
 ## Overview
 Welcome to MaLeNAD, a machine learning-powered app for news article analysis and fake news detection. This tool provides functionalities for fake news prediction, natural language processing, and language translation.
 
