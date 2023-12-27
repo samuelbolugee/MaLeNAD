@@ -49,7 +49,7 @@ st.sidebar.title("Welcome! :blush:")
 choice = st.sidebar.selectbox("What do you want to do today?", choices)
 
 if choice == "Fake News Prediction":
-    st.info("You are now utilizing the Fake News Prediction module.")
+    st.info("You are now utilizing the Fake News Prediction module. Please note that predictions may not be 100% accurate.")
     # Input form for users
     title_input = st.text_input("Enter the title of the news article:")
     text_input = st.text_area("Enter the text of the news article:")
